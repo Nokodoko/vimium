@@ -1,0 +1,31 @@
+mappings:
+map A createTab postion="end" url="https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1"
+map Dp createTab postion="end" url="https://www.datadoghq.com/pricing/"
+map C createTab postion="end" url="https://www.crunchyroll.com/"
+map DD createTab postion="end" url="https://app.ddog-gov.com/personal-settings/organizations"
+map DO createTab postion="end" url="https://app.datadoghq.com/personal-settings/organizations"
+map Dd createTab postion="end" url="https://app.datadoghq.com/help/quick_start"
+map Df createTab postion="end" url="https://docs.datadoghq.com/integrations/ecs_fargate/?tab=webui#trace-collection"
+map Do createTab postion="end" url="https://app.ddog-gov.com/personal-settings/organizations"
+map E createTab postion="end" url="https://outlook.office.com/mail"
+map L createTab postion="end" url="github.com"
+map Ma createTab postion="end" url="https://mail.google.com/mail/u/1/#inbox"
+map Mu createTab postion="end" url="music.youtube.com"
+map P createTab postion="end" url="https://www.datadoghq.com/product-preview/"
+map U createTab postion="end" url="https://eccoselect.unanet.biz"
+map Y createTab postion="end" url="youtube.com"
+map a createTab postion="end" url="https://app.ddog-gov.com/notebook/15122/forest-service-agenda"
+map c createTab postion="end" url="chrome-extension://hfjbmagddngcpeloejdejnfgbamkjaeg/pages/options.html"
+map l createTab postion="end" url="https://www.linkedin.com/feed/"
+map T createTab postion="end" url="https://teams.microsoft.com/v2/"
+
+
+search_engines:
+aw|https://wiki.archlinux.org/index.php?search=%s
+dap| https://docs.datadoghq.com/api/latest/%s
+dd|https://docs.datadoghq.com/search/?s=%s
+di|https://docs.datadoghq.com/integrations/%s
+dlib|https://docs.datadoghq.com/tracing/trace_collection/automatic_instrumentation/dd_libraries/%s
+gh|https://github.com/search?q=%s&type=repositories
+tf|https://registry.terraform.io/search/providers?q=%s
+pg|https://www.postgresql.org/search/?u=%2Fdocs%2F9.2%2F&q=%s
