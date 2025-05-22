@@ -17,8 +17,7 @@ map Y createTab postion="end" url="youtube.com"
 map a createTab postion="end" url="https://app.ddog-gov.com/notebook/15122/forest-service-agenda"
 map c createTab postion="end" url="chrome-extension://hfjbmagddngcpeloejdejnfgbamkjaeg/pages/options.html"
 map l createTab postion="end" url="https://www.linkedin.com/feed/"
-map T createTab postion="end" url="https://teams.microsoft.com/v2/"
-
+map <s-space><s-space> Vomnibar.activateTabs
 
 search_engines:
 aw|https://wiki.archlinux.org/index.php?search=%s
