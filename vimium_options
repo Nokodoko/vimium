@@ -21,6 +21,7 @@ map <s-space><s-space> Vomnibar.activateTabs
 
 search_engines:
 aw|https://wiki.archlinux.org/index.php?search=%s
+cr|https://crates.io/search?q=%s
 dap| https://docs.datadoghq.com/api/latest/%s
 dd|https://docs.datadoghq.com/search/?s=%s
 di|https://docs.datadoghq.com/integrations/%s
